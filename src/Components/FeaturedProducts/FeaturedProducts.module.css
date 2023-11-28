@@ -1,0 +1,36 @@
+.Main{
+    color: #0AAD0A;
+}
+.Warrning{
+    color: goldenrod;
+}
+.CardBorder{
+    border: none;
+}
+.Pointer{
+    cursor: pointer !important;
+}
+.ButtonMain{
+background-color: #0AAD0A !important;
+color: white !important;
+opacity: 0 ;
+transform: translateY(400%);
+transition: 0.4s ease-in-out !important;
+}
+.ProductContainer{
+    transition: 0.2s ease-in;
+}
+.ProductContainer:hover{
+    /* border: #0AAD0A 2px solid; */
+    box-shadow: 1px  1px 7px 1px #0AAD0A ;
+}
+.ProductContainer:hover button{
+    opacity: 1 !important;
+    transform: translateY(0);
+}
+.Wish{
+    color: red !important;
+}
+.UnWish{
+    color: black !important;
+}

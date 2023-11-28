@@ -1,0 +1,12 @@
+.Warrning{
+    color: goldenrod !important;
+}
+.body{
+    height: 80vh;
+}
+.Main,.Main:hover{
+    background-color: #0AAD0A;
+}
+.slick-prev, .slick-next{
+    background-color: black !important;
+}

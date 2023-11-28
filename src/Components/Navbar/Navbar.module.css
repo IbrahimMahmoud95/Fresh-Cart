@@ -1,0 +1,10 @@
+.Pointer{
+    cursor: pointer !important;
+
+}
+.CartLogo:hover{
+color:black !important;
+}
+.Main{
+    background-color: #0AAD0A !important;
+}

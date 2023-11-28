@@ -1,0 +1,14 @@
+.FormControlCustomize:focus{
+    border: 2px solid #0aad0a !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.W60{
+    width: 60% !important;
+}
+.main{
+    background-color: #0aad0a !important;
+}
+.Padding{
+    padding: 0rem 1.5rem !important;
+}

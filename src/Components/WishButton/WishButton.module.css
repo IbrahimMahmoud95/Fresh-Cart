@@ -1,0 +1,12 @@
+i.heartIcon {
+    color: black !important;
+  cursor: pointer !important; /* Change cursor to pointer on hover */
+}
+
+i.heartIconFilled {
+  color: red !important; /* Color when filled */
+  cursor: pointer !important; /* Change cursor to pointer on hover */
+}
+.Pointer{
+    cursor: pointer  !important;
+}
